@@ -2,4 +2,7 @@
 <hr/>
 ### Demonstration
 
-![](https://github.com/withoutCoffee/Metodos_Numericos/blob/main/assets/video-to-gif.gif)
+
+<p align="center">
+    <img src = "assets/video-to-gif.gif">
+</p>
